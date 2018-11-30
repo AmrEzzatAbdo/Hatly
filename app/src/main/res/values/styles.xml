@@ -14,5 +14,9 @@
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowContentOverlay">@null</item>
     </style>
+    <!--Hint inputLayout-->
+    <style name="HintText" parent="TextAppearance.Design.Hint">
+        <item name="android:textColor">#ffffff</item>
+    </style>
 
 </resources>
